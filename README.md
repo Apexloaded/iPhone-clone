@@ -16,7 +16,7 @@ This is the complete source code for the iphone clone project, kindly clone the 
 To learn more about us, contact us using the following handle:
 
 - **[Apexloaded.com](https://apexloaded.com/) - Website**
-- **[Twitter.com](https://twitter.com/apexlaoded) - Twitter**
+- **[Twitter.com](https://twitter.com/apexloaded) - Twitter**
 - **[Facebook.com](https://facebook.com/apexloaded) - Facebook**
 - **[Instagram.com](https://instagram.com/officialapexloaded) - Instagram**
 - **[info@apexloaded.com](mailto:info@apexloaded.com) - Email**
